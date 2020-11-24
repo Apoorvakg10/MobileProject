@@ -1,0 +1,31 @@
+.card-img-top{
+    width: 15%;
+    height: 20%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.card{
+    border: 2px solid rgb(144, 159, 245);
+    text-align: center;
+    margin-left: 25%;
+  
+}
+.showimg{
+    width: 38%;
+    height: 52%;
+    margin-left: 32%;
+    margin-top: 5%;
+}
+
+#c1{
+    margin-top: 5%;
+  border: none;
+}
+body{
+    background-color: rgb(241, 239, 236);
+}
+#block{
+    border: 2px solid rgb(22, 22, 7);
+    width: 50%;
+    height: 50%;
+}

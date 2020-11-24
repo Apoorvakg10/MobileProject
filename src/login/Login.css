@@ -1,0 +1,62 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  text-align:center;
+  width: 100%;
+  background-color: #e6e6fae8;
+  }
+input[type=text], input[type=password]{
+  width:40%;
+  padding:7px 10px;
+  margin: 10px 0;
+  display:inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  }
+   
+   .sub {
+      background-color: #0a8f58;
+      width: 15%;
+      padding: 9px 5px;
+      margin: 10px 0px 18px -34px;
+      cursor: pointer;
+      border: none;
+      color: #070e08;
+      font-size: 25px;
+      font-weight: bold;
+  }
+    
+  #content{
+      width: 60%;
+      margin-left: 200px;
+
+  }
+  
+  /* .login{
+      border: 2px solid black;
+      margin-top: 40px;
+      background-color: rgb(74 87 86);
+  }
+  .logHead{
+      border-bottom: 8px solid #ff0067;
+      background-color: #3f4b78;
+      color: #53fe21;
+  } */
+  .navbar{
+      border-bottom: 6px solid rgb(9, 10, 8);
+      background-color: rgb(64, 235, 220);
+      margin-top: 10px;
+  }
+  .nav-link{
+      color: rgb(15, 15, 14);
+      font-weight: bold;
+      margin-left: 2000%;
+      padding-top: 200px;
+      margin-top: 200px;
+  }
+  .nav-link:hover{
+      color: rgb(14, 13, 13);
+  }
+  .navbar-brand {
+      color: rgb(15, 15, 14);
+  }

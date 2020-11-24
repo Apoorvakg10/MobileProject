@@ -1,0 +1,29 @@
+.carousel-inner {
+ align-items: center;
+    margin-top: 60px;
+    width: 1000px;
+    height: 2000px;
+}
+.navbar{
+    border-bottom: 6px solid rgb(23, 24, 21);
+    background-color: rgb(64, 235, 220);
+    margin-top: 10px;
+    width: 1200px;
+}
+.nav-link{
+    color: rgb(26, 22, 16);
+    font-weight: bold;
+    margin-left: 1000%;
+}
+.nav-link:hover{
+    color: rgb(17, 12, 11);
+}
+.navbar-brand {
+    color: rgb(12, 12, 9);
+}
+.block{
+    height: 400px;
+    width: 900px;
+   padding: 50px;
+   align-content: center;
+}
